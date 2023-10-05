@@ -15,12 +15,9 @@ The remainder of the Trimester we will build a game for N@tM on Nov 2nd.  Teache
 > Outline comes from Canvas Assignment
 
 - Pick your team
-  - John (Mr M)
-  - Shane (Mr L)
-  - Rohan J
-  - Safin
+  - Abi
 
-- Create GitHub repository: https://github.com/jm1021/alienWorld.git
+- Create GitHub repository: https://github.com/abi1961/game.git
 
 - Create a 2D game to mimic Mario example
 
