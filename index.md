@@ -1,8 +1,8 @@
 ---
-title: Alien World
+title: Pacman 2D Background
 layout: base
 ---
 
-Future home of Alien World
+Future home of Pacman
 
-![alien planet]({{site.baseurl}}/images/alien_planet.jpg)
+![Packman Background]({{site.baseurl}}/images/game_background.jpg)
