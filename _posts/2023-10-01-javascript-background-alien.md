@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Alien World Background
+title: Pacman Background
 description: Use JavaScript without external libraries to loop background moving across screen, OOP style.
 categories: [C5.0, C7.0, C7.6]
-image: /images/alien_planet.jpg
+image: /images/game_background.jpg
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
 
-{% assign alienPlanetFile = site.baseurl | append: page.image %}
+{% assign gameBackgroundFile = site.baseurl | append: page.image %}
 {% assign WIDTH = 7000 %}
 {% assign HEIGHT = 2500 %}
 
-<canvas id="alienWorld"></canvas>
+<canvas id="game"></canvas>
 
 <script>
-  const canvas = document.getElementById("alienWorld");
+  const canvas = document.getElementById("Pacman");
   const ctx = canvas.getContext('2d');
 
   const ASPECT_RATIO = {{WIDTH}} / {{HEIGHT}};
@@ -59,7 +59,7 @@ courses: { compsci: {week: 1} }
   }
 
   const backgroundImg = new Image();
-  backgroundImg.src = '{{alienPlanetFile}}';
+  backgroundImg.src = '{{gameBackgroundFile}}';
   var backgroundObj = new Layer(backgroundImg, 0.5)
 
   function background() {
