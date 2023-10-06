@@ -14,21 +14,31 @@ The remainder of the Trimester we will build a game for N@tM on Nov 2nd.  Teache
 
 > Outline comes from Canvas Assignment
 
-- Pick your team
-  - Abi
+- 2D Game GitHub repository: https://github.com/abi1961/game.git
+- Team:
+  - Gavin Ireland (id=Gavaruba)
+  - Alyssa-Allen Abrams (id=AllenAbra)
+  - Abigail Besufekad (id=abi1961)
 
-- Create GitHub repository: https://github.com/abi1961/game.git
+Pacman Assets:
+  - [Ghosts](https://www.gamedevmarket.net/asset/animated-ghost-enemy)
+  - [Health_Points](https://www.gamedevmarket.net/asset/magic-gems-pixel-art-asset)
+  - [Movement_Effects](https://www.gamedevmarket.net/asset/free-pixel-effect)
+  > Reference:
+    - [JS_Animation_Tips]https://www.w3schools.com/howto/howto_js_animate.asp
+    - [Canva Design Board]({{site.baseurl}}/images/shadow_dog.png)
 
-- Create a 2D game to mimic Mario example
-
-  - Obtain assets
-    - [Alien World]({{site.baseurl}}/images/alien_planet.jpg)
-    - [Shadow Dog]({{site.baseurl}}/images/shadow_dog.png) and [Video Series](https://youtu.be/GFO_txvwK_c?t=14)
-
-- Outline Scenes.  See plan, but this is determined to be ongoing plan
-  - Scene work from Brain Write has begun
-  - Pick a tool (ie Figma, Canva), have assigned coder develop scenes
-
+- Outline:
+  > Week 1:
+    - Pick all necessary assets (Market or Custom-made) by the end of 10-06-2023.
+    - Gavin ~ Working on basic movements and display of main character.
+    - Alyssa-Allen ~ Organizing design concept of game.
+    - Abi ~ Working on other character animations.
+    - Discuss details of game scene & finalize game elements to be used.
+    - Update Daily Meeting Blog and Plan after each 24hr sprint/meeting.
+    > Reference:
+      - [Scrumboard]({{site.baseurl}}/images/scrumboard.png)
+ 
 ### Other elements not in Canvas
 
 - Document problems in getting setup
