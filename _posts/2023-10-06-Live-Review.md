@@ -33,7 +33,7 @@ Pacman Assets:
     - Pick all necessary assets (Market or Custom-made) by the end of 10-06-2023.
     - Gavin ~ Working on basic movements and display of main character.
     - Alyssa-Allen ~ Organizing design concept of game.
-    - Abi ~ Working on other character animations.
+    - Abi ~ Working on other game interactions.
     - Discuss details of game scene & finalize game elements to be used.
     - Update Daily Meeting Blog and Plan after each 24hr sprint/meeting.
     > Reference:
