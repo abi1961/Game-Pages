@@ -28,8 +28,7 @@ Pacman Assets:
     - [JS_Animation_Tips](https://www.w3schools.com/howto/howto_js_animate.asp)
     - [Canva Design Board]({{site.baseurl}}/images/shadow_dog.png)
 
-Outline:
-  Week 1:
+  Week 1 Outline:
   - Pick all necessary assets (Market or Custom-made) by the end of 10-06-2023.
   - Gavin ~ Working on basic movements and display of main character.
   - Alyssa-Allen ~ Organizing design concept of game.
