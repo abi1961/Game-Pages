@@ -27,14 +27,15 @@ Pacman Assets:
   > Reference:
     - [JS_Animation_Tips](https://www.w3schools.com/howto/howto_js_animate.asp)
     - [Canva Design Board]({{site.baseurl}}/images/shadow_dog.png)
+    - [Sololearn: Javascript](https://www.sololearn.com/learn/courses/javascript-introduction)
 
   Week 1 Outline:
   - Pick all necessary assets (Market or Custom-made) by the end of 10-06-2023.
-  - Gavin ~ Working on basic movements and display of main character.
-  - Alyssa-Allen ~ Organizing design concept of game.
-  - Abi ~ Working on other game interactions.
+  - Gavin ~ Working on placing game objects.
+  - Alyssa-Allen ~ Brainstorming design concept of game.
+  - Abi ~ Establishing game barriers for playing field.
   - Discuss details of game scene & finalize game elements to be used.
-  - Update Daily Meeting Blog and Plan after each 24hr sprint/meeting.
+  - Update Daily Meeting Blog after each 24hr sprint/meeting and update Plan after each week.
     > Reference:
       - [Scrumboard]({{site.baseurl}}/images/scrumboard.png)
  
