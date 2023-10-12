@@ -27,7 +27,6 @@ Pacman Assets:
   > Reference:
     - [JS_Animation_Tips](https://www.w3schools.com/howto/howto_js_animate.asp)
     - [Canva Design Board]({{site.baseurl}}/images/shadow_dog.png)
-    - [Sololearn: Javascript](https://www.sololearn.com/learn/courses/javascript-introduction)
 
   Week 1 Outline:
   - Pick all necessary assets (Market or Custom-made) by the end of 10-06-2023.
@@ -37,8 +36,11 @@ Pacman Assets:
   - Discuss details of game scene & finalize game elements to be used.
   - Update Daily Meeting Blog after each 24hr sprint/meeting and update Plan after each week.
     > Reference:
+      - [Sololearn: Javascript](https://www.sololearn.com/learn/courses/javascript-introduction)
       - [Scrumboard]({{site.baseurl}}/images/scrumboard.png)
- 
+      - [Brick Building](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Build_the_brick_field)
+
+      
 ### Other elements not in Canvas
 
 - Document problems in getting setup

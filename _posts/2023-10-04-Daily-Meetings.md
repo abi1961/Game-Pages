@@ -13,16 +13,16 @@ categories: [C1.4]
 
 Learning outcome for week.  Start shared GitHub, learn how to plan.
 
-- Wednesday - Get together with Mr Lopez, Safin, and Rohan.
-  - Talk about initial ideas for game
-  - Start a planning document: Plan.ipynb
-  - Brain write
+- Friday, 10-06-2023: 
+  - Brainstorm 
+  - Edit Plan.ipynb
+  - Finish Main Character animation
   - Explore assets for the game
 
-- Thursday. Bring together very initial ideation from team.
+- Monday, 10-09-2023:
   - Consolidate ideas from Brain write
   - Start Issue tracking
-  - Pick a drawing tool (ie Figma or Canvas)
+  - Begin 
   - Assign initial Issues
     - Plan, Description, Story Board
     - Background Coding experiments on Looping and Parallax.
