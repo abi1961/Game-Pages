@@ -3,6 +3,6 @@ title: Pacman 2D Background
 layout: base
 ---
 
-Future home of Pacman
+Maze Outline
 
-![Packman Background]({{site.baseurl}}/images/game_background.jpg)
+![Pacman Background]({{site.baseurl}}/images/game_background.jpg)
