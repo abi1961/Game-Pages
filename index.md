@@ -5,4 +5,4 @@ layout: base
 
 Maze Outline
 
-![Pacman Background]({{site.baseurl}}/images/game_background.jpg)
+![Pacman Background]({{site.baseurl}}/images/maze_outline.jpeg)
